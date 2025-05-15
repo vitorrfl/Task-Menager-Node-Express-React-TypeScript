@@ -8,3 +8,6 @@ dist/
 
 # Sistema
 .DS_Store
+
+# Essentials
+.vscode/
